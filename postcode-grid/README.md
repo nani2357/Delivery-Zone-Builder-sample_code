@@ -26,7 +26,5 @@ If you are developing a production application, we recommend using TypeScript wi
 > Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 > ```
 
-### 1) Clone the repo
-```bash
 
 
